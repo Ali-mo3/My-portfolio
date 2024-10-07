@@ -82,7 +82,8 @@ body {
 }
 
 .main {
-  background: url(imeges/photo.jpg);
+  background: url(/imeges/photo.jpg);
+  background-color: #000;
   background-size: cover;
   height: 100vh;
   display: flex;
